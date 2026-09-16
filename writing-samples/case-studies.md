@@ -19,7 +19,7 @@ I wrote the following case studies for a company website to give potential custo
 
 Serving as part of largest and oldest service organization in the US, the Tampa YMCA reaches more than 160,000 individuals in the Tampa Bay area annually, serving 18 facilities across two counties. With a focus on fitness and social responsibility, this non-profit organization seeks to improve the well-being and health of community members of all ages, as well as their families.
 
-<img src="/kbennett-samples/images/ymca5.png"
+<img src="/cminkema-portfolio/images/ymca5.png"
      alt="PaperPiles"
      style="float:left; width:300px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
@@ -36,7 +36,7 @@ Enter DocuPhase. The DocuPhase solution for the YMCA was initially implemented t
 - Membership application processing.
 - Human Resources automation designed for the management of documents such as I9s.
 
-<img src="/kbennett-samples/images/ymca6.png"
+<img src="/cminkema-portfolio/images/ymca6.png"
      alt="happy workers"
      style="float:right; width:188px; margin:0 0 1rem 1rem; border-radius:6px;" />
 
@@ -57,7 +57,7 @@ As the world’s largest provider of integrated security awareness training and 
 #### **The Challenge**
 
 <p>As KnowBe4 grew exponentially in a short period of time (i.e., hypergrowth), it became apparent that there were a number of issues preventing efficient and economical management of business processes and progress:</p> 
-<img src="/kbennett-samples/images/KNOWb4-BEFORE1.png"
+<img src="/cminkema-portfolio/images/KNOWb4-BEFORE1.png"
 alt="growthvsorganization"
 style="float:left; height:400px; width:400px; margin:0 1rem 1rem 0; border-radius:4px;" />
 <ul style="margin:0.5rem 0 0 1.5rem; padding:0;">
@@ -76,7 +76,7 @@ After months of searching for the answer that would resolve and meet the challen
 
 #### **The Result**
 
-<img src="/kbennett-samples/images/KNOWb4-AFTER1.png"
+<img src="/cminkema-portfolio/images/KNOWb4-AFTER1.png"
      alt="growthvsorganization"
      style="float:right; height:400px; width:400px; margin:0 1rem 1rem 0; border-radius:4px;" />
 Initially, DocuPhase was implemented for just the Sales Department (with integrations with NetSuite and Salesforce), but it is now also being used by Customer Success, Courseware/Design, Managed Services, as well as Accounting and Order Processing.
@@ -127,7 +127,7 @@ Approximately 35% of Goodwill’s workforce turns over annually as clients move 
 This constantly shifting workforce, and the documents that come with it, generate a significant amount of paper, 
 leading to overflowing filing cabinets and the risk of misplaced records. 
 
-<img src="/kbennett-samples/images/Goodwill-BEFORE1.png"
+<img src="/cminkema-portfolio/images/Goodwill-BEFORE1.png"
      alt="chaosinthefiles"
      style="float:left; height:210px;  margin:0 1rem 1rem 0; border-radius:4px;" />
 
@@ -143,7 +143,7 @@ DocuPhase’s Document Management core allows businesses to make documents and i
 
 #### **The Result** 
 
-<img src="/kbennett-samples/images/Goodwill-AFTER.png"
+<img src="/cminkema-portfolio/images/Goodwill-AFTER.png"
      alt="organizedoffice"
      style="float:right; height:200px; margin:0 1rem 1rem 0; border-radius:4px;" />
 By implementing electronic Document Management and Process Automation, GIMT eliminated physical paper storage, reduced time spent on paperwork by 25% and cut interdepartmental inquiries by 70%. Altogether, these improvements generated more than $100,000 in annual savings.

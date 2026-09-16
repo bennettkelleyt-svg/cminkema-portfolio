@@ -3,7 +3,7 @@ title: "Kelley Bennett: Behind the Work"
 nav_order: 3
 ---
 
-<img src="/kbennett-samples/images/kbennett profile pic 3.jpg"
+<img src="/cminkema-portfolio/images/kbennett profile pic 3.jpg"
      alt="Kelley Bennett"
      class="profile-pic"
      style="float:left; width:100px; margin-top:0rem; margin-right:1rem; border-radius:6px;" />
@@ -38,7 +38,7 @@ My interactions with AI are generally limited to using it as a brainstorming par
 The writing itself, including the voice, structure, decisions, and final content, is entirely my own. I continue to explore where AI can be helpful, but its role in my writing process remains deliberately limited.
 
 
-<img src="/kbennett-samples/images/landingpage imageOvalVing3a.png"
+<img src="/cminkema-portfolio/images/landingpage imageOvalVing3a.png"
      alt="doc types"
       style="float:right; width:275px; border-radius:6px; margin-top:2rem;" />
 ## What I Deliver
@@ -46,4 +46,4 @@ Over the course of my career, I’ve designed, built, and rebuilt documentation 
 
 No matter the project or audience, what I deliver stays consistent: content that keeps working as the product evolves. 
 
-> **NOTE:** <span style="font-size: 0.9rem; font-style: italic;">For a closer look at the types of content I've produced, visit the [Writing Samples](/kbennett-samples/writing-samples/) section of this portfolio.
+> **NOTE:** <span style="font-size: 0.9rem; font-style: italic;">For a closer look at the types of content I've produced, visit the [Writing Samples](/cminkema-portfolio/writing-samples/) section of this portfolio.

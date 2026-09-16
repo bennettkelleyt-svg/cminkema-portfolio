@@ -30,8 +30,8 @@ While OLH is helpful, it’s sometimes difficult to quickly find information. Th
 ### What is Context-sensitive Help?
 
 Context-sensitive help (CSH) enhances ordinary online documentation by providing a topic for each screen within the application, tool, or portal. When you click the help icon from any window within our product (such as Trip Mapping), a help window with corresponding information (such as "Using Map Features) appears on top of the product application screen. The help screen provides content (both instructional and conceptual) about the currently displayed application screen). A search field is available to allow the user to find any other information in the help system. Additionally, the navigation pane on the left side of the help window provides a list of topics that can be use to view related or other information about the product. 
-<a href="/kbennett-samples/images/online help sample1.png" target="_blank">
-<img src="/kbennett-samples/images/online help sample2.png"
+<a href="/cminkema-portfolio/images/online help sample1.png" target="_blank">
+<img src="/cminkema-portfolio/images/online help sample2.png"
      alt="helpexample"
      style="float:left; width:800px; margin:0 1rem 1rem 0; border-radius:6px;" />
 </a>
@@ -49,7 +49,7 @@ From the map or the missions list, clicking the help icon opens a help window pr
 ### What Value Does CSH Offer?
 
 CSH offers many benefits for both users and the organization.
-<img src="/kbennett-samples/images/OLH8.png"
+<img src="/cminkema-portfolio/images/OLH8.png"
      alt="Online Help diagram"
      style="display:block; width:100%; max-width:800px; margin:0 auto 1rem auto; border-radius:6px;" />
 
@@ -68,7 +68,7 @@ Currently, the portal doesn’t include online help. However, this feature imple
 
 As a technical writer, I’m generally overly attentive to the grammar and speech of others. Okay, yes, I’ll say it: I’m judgy.
 
-<img src="/kbennett-samples/images/wordnerd1.png"
+<img src="/cminkema-portfolio/images/wordnerd1.png"
      alt="WordNerd"
      style="float:right; width:300px; margin:0 1rem 1rem 0; border-radius:6px;" />
 
@@ -80,7 +80,7 @@ Misused words and phrases are communicated all the time. Many people don’t rea
 For this article, I thought it might be helpful, and maybe even a little fun, to share some examples of commonly misused or misunderstood words and phrases. Below, I’ve outlined several grammatical errors I frequently encounter. Take a look; you may hear or read them often, too. 
 
 
-<img src="/kbennett-samples/images/grammar5.png"
+<img src="/cminkema-portfolio/images/grammar5.png"
      alt="Grammar example 1"
      style="display:block; width:100%; max-width:800px; margin:0 auto 1rem auto; border-radius:6px;" />
 
