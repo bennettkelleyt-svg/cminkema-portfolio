@@ -1,0 +1,92 @@
+---
+title: Intranet Articles 
+parent: Writing Samples
+nav_order: 5
+---
+
+
+<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Intranet Articles</h1>
+
+I wrote these articles for a company intranet to explain topics that are often unfamiliar or misunderstood and to support more professional communication across teams.
+
+<p><span style="color:#7F7F7F; font-weight:700;">Click an article title below to display the corresponding content.</span></p>
+
+<div style="height: .9rem;"></div>
+
+<details markdown="1">
+  <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Article: Online Help – What Is It Good For?</span></strong></summary>
+
+
+It’s happened to all of us from time to time: you’re working in an application, and suddenly, YOU’RE STUCK! You need to determine how to use or maybe find a feature. You could call technical support, but that takes valuable time. So, what do you do? ONLINE HELP TO THE RESCUE!
+
+
+### What is Online Help?
+
+Online help (OLH) is an organized, topic-based information system that provides guidance about how or when to use an application, portal, or platform. You’ve most likely seen it in Microsoft, Atlassian, or other products.
+
+While OLH is helpful, it’s sometimes difficult to quickly find information. That’s where a super-charged help system comes in handy: context-sensitive help.
+
+
+### What is Context-sensitive Help?
+
+Context-sensitive help (CSH) enhances ordinary online documentation by providing a topic for each screen within the application, tool, or portal. When you click the help icon from any window within our product (such as Trip Mapping), a help window with corresponding information (such as "Using Map Features) appears on top of the product application screen. The help screen provides content (both instructional and conceptual) about the currently displayed application screen). A search field is available to allow the user to find any other information in the help system. Additionally, the navigation pane on the left side of the help window provides a list of topics that can be use to view related or other information about the product. 
+<a href="/kbennett-samples/images/online help sample1.png" target="_blank">
+<img src="/kbennett-samples/images/online help sample2.png"
+     alt="helpexample"
+     style="float:left; width:800px; margin:0 1rem 1rem 0; border-radius:6px;" />
+</a>
+
+
+### Why Are We Telling You About CSH?
+
+CSH implementation is vital and planned for the Mission Control (MC) portal. While the MC portal is intuitive, there may be times when an MC user needs additional assistance.
+
+For instance, a hub operator looks at the map but doesn’t understand what the map icons mean, or a mission manager forgets how to find missions with a “Critical” status.
+
+From the map or the missions list, clicking the help icon opens a help window providing an organized list of information about the screen being displayed. From the list, the user can quickly find the information they need and click on it to display details.
+
+
+### What Value Does CSH Offer?
+
+CSH offers many benefits for both users and the organization.
+<img src="/kbennett-samples/images/OLH8.png"
+     alt="Online Help diagram"
+     style="display:block; width:100%; max-width:800px; margin:0 auto 1rem auto; border-radius:6px;" />
+
+
+### What Is the Status of Online Help for Our Product?
+
+Currently, the portal doesn’t include online help. However, this feature implementation is planned for a future release. In the meantime, via VPN, you can access the existing online help system.
+
+</details>
+
+<div style="height: 1rem;"></div>
+
+<details markdown="1">
+  <summary><strong><span style="font-size: 1.2rem; color:#0070C0; font-weight: 700;">Article: The Not-so-Silent Suffering of a Word Nerd</span></strong></summary>
+
+
+As a technical writer, I’m generally overly attentive to the grammar and speech of others. Okay, yes, I’ll say it: I’m judgy.
+
+<img src="/kbennett-samples/images/wordnerd1.png"
+     alt="WordNerd"
+     style="float:right; width:300px; margin:0 1rem 1rem 0; border-radius:6px;" />
+
+
+I often hear myself, in one‑sided conversations, correcting people I hear on the radio or TV. At times, I even shout my corrections at them; at other times, I’m simply speechless and rolling my eyes.
+
+Misused words and phrases are communicated all the time. Many people don’t realize that such errors distract from the message they’re trying to convey. At Torc, straightforward communication is essential to meeting our goals, and grammar is one important element of that communication.
+
+For this article, I thought it might be helpful, and maybe even a little fun, to share some examples of commonly misused or misunderstood words and phrases. Below, I’ve outlined several grammatical errors I frequently encounter. Take a look; you may hear or read them often, too. 
+
+
+<img src="/kbennett-samples/images/grammar5.png"
+     alt="Grammar example 1"
+     style="display:block; width:100%; max-width:800px; margin:0 auto 1rem auto; border-radius:6px;" />
+
+
+These are just a few examples of some of the vocabulary usage mistakes or confusion that commonly show up in day-to-day communications. Now that I’ve clarified them, see how often you can spot them. You might be surprised at how frequently they occur.
+
+Some say caring about grammar is passé. However, good grammar is the foundation of technical accuracy, which, in our line of work here at THIS COMPANY, is a critical element of our success.
+
+</details>
