@@ -1,9 +1,9 @@
 ---
-title: "Kelley Bennett: Behind the Work"
+title: "More about Cheryl"
 nav_order: 3
 ---
 
-<img src="/cminkema-portfolio/images/kbennett profile pic 3.jpg"
+<img src="/cminkema-portfolio/images/cminkema profile pic 3.jpg"
      alt="Kelley Bennett"
      class="profile-pic"
      style="float:left; width:100px; margin-top:0rem; margin-right:1rem; border-radius:6px;" />
