@@ -3,7 +3,7 @@ title: "More about Cheryl"
 nav_order: 3
 ---
 
-<img src="/cminkema-portfolio/images/cminkema profile pic 3.jpg"
+<img src="/cminkema-portfolio/images/cherylminkema profile pic 3.jpg"
      alt="Cheryl Minkema"
      class="profile-pic"
      style="float:left; width:100px; margin-top:0rem; margin-right:1rem; border-radius:6px;" />
