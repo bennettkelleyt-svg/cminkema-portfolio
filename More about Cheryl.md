@@ -4,7 +4,7 @@ nav_order: 3
 ---
 
 <img src="/cminkema-portfolio/images/cminkema profile pic 3.jpg"
-     alt="Kelley Bennett"
+     alt="Cheryl Minkema"
      class="profile-pic"
      style="float:left; width:100px; margin-top:0rem; margin-right:1rem; border-radius:6px;" />
 <h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Kelley Bennett: Behind the Work </h1>
