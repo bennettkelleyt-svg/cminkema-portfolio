@@ -1,13 +1,13 @@
 ---
-title: "Kelley Bennett: Behind the Work"
+title: "More about Cheryl"
 nav_order: 3
 ---
 
-<img src="/cminkema-portfolio/images/kbennett profile pic 3.jpg"
-     alt="Kelley Bennett"
+<img src="/cminkema-portfolio/images/CherylMinkema profile pic.png"
+     alt="Cheryl Minkema"
      class="profile-pic"
      style="float:left; width:100px; margin-top:0rem; margin-right:1rem; border-radius:6px;" />
-<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Kelley Bennett: Behind the Work </h1>
+<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">More about Cheryl</h1>
 This page offers a look into what's "behind" the work I do: how I think, how I work, and what drives me as a writer. If that's what you're looking for, you're in the right place.
 
 

@@ -2,9 +2,8 @@
 title: "Portfolio Overview"
 nav_order: 1
 ---
-<img src="/cminkema-portfolio/images/chaos to clarity.png"
-     alt="tech writer"
-     style="float:right; width:200px; border-radius:6px; margin-top:0rem; margin-left:0rem;" />
+
+
 <h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">Portfolio Overview</h1>
 
 
@@ -14,13 +13,9 @@ My work focuses on clarity, logical structure, and explaining complex systems in
 
 
 > **Notes**
->- <span style="font-size: 0.8rem !important;">Learn more about me as a writer and teammate by visiting my [Kelley Bennett: Behind the Work](/cminkema-portfolio/KelleyBennett-Behind-the-Work) page in this portfolio and the <a href="https://www.linkedin.com/in/kelley-bennett-742755b/details/recommendations/?detailScreenTabIndex=0" target="_blank" rel="noopener noreferrer"> Recommendations</a> section of my <a href="https://www.linkedin.com/in/kelley-bennett-742755b/" target="_blank">LinkedIn profile</a>.</span>
->- <span style="font-size: 0.8rem !important;"> If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [bennett.kelleyt@gmail.com](mailto:bennett.kelleyt@gmail.com) or [941-320-3980](tel:941-320-3980).</span>
+>- <span style="font-size: 0.8rem !important;">Learn more about me as a writer and teammate by visiting my [More about Cheryl](/cminkema-portfolio/More about Cheryl) page in this portfolio and the <a href="https://www.linkedin.com/in/cheryl-minkema/details/recommendations/?detailScreenTabIndex=1" target="_blank" rel="noopener noreferrer"> Recommendations</a> section of my <a href="https://www.linkedin.com/in/cheryl-minkema/" target="_blank">LinkedIn profile</a>.</span>
+>- <span style="font-size: 0.8rem !important;"> If you’d like to discuss my experience or any of these samples in more detail, feel free to reach me at [cheryl.minkema@gmail.com](mailto:cheryl.minkema@gmail.com) or [425-785-5817](tel:425-785-5817).</span>
 >- <span style="font-size: 0.8rem !important;">Use the search field at the top of each screen on this site to locate documents by topic, type, or industry.</span>
-
-<img src="/cminkema-portfolio/images/landingpage imageVinga.png"
-     alt="doc types"
-     style="float:left; width:250px; border-radius:6px; margin-top:0rem; margin-right:1.5rem;" />
 
      
 ## What’s Included (and What’s Not)
