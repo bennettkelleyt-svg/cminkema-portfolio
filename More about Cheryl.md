@@ -7,43 +7,25 @@ nav_order: 3
      alt="Cheryl Minkema"
      class="profile-pic"
      style="float:left; width:100px; margin-top:0rem; margin-right:1rem; border-radius:6px;" />
-<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">More about Cheryl</h1>
-This page offers a look into what's "behind" the work I do: how I think, how I work, and what drives me as a writer. If that's what you're looking for, you're in the right place.
+<h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">About Me</h1>
+I’ve spent most of my career working in technical writing and documentation leadership. I like complicated systems, clear information, and teams that communicate well. I’ve worked in robotics, autonomous vehicles, enterprise software, and cloud platforms, and I’ve learned that good documentation makes everything else easier.
+
+<br>I’m originally from the Pacific Northwest and now live in North Carolina. I like quiet routines, long drives, and any excuse to be near the water. I enjoy solving practical problems, organizing messy content, and helping writers grow in their careers. I’m happiest when I’m learning how something works and figuring out the simplest way to explain it.
+
+I’m not flashy. I like steady progress, honest conversations, and work that actually helps people. If something can be made clearer, I’ll probably try to do it.
 
 
 <h2 style="clear:both; margin-top:3rem;">What I Do</h2>
-I’m a technical writer who likes turning complicated, messy, half-explained things into content that people can actually use. Over the years, I’ve worked across enough industries and platforms to navigate the usual documentation challenges: complex APIs, tangled workflows, integrations, and UI behavior that needs clear explanation.
+I help engineering teams turn complex ideas into clear documentation. I’ve spent years working in environments where accuracy matters and people rely on good information to do their jobs. I build standards, improve workflows, and make sure writers have what they need to deliver solid work.
 
-I’m the person who opens the thing, clicks the buttons, and asks, “Okay, but what really happens here?” I like being the one to ask the questions no one else wants to ask, then use the answers to create content readers understand.
+<br>I’m the person who notices when something is unclear and quietly fixes it. I like organizing messy content, simplifying complicated systems, and creating habits that make teams more predictable. I care about clarity, consistency, and making sure people aren’t left guessing.
+
+My work is a mix of technical depth, problem solving, and supporting the people who keep everything moving.
 
 
 ## How I Work
-At the heart of my career as a technical writer is collaboration, something I not only believe in but genuinely enjoy. That means working closely with the right people at the right time and supporting my teammates. Engineers, PMs, designers, sales, support teams, and other stakeholders all play a role in shaping the best content possible.
+I’m the kind of person who likes to get things organized so people can focus on their actual jobs. I don’t mind digging into complicated systems, and I don’t get rattled when things shift. I keep communication simple, stay calm when things get busy, and make sure the work keeps moving.
 
-And while it's not always an organization’s common practice, I always hope for collaboration to begin early in the process, not just at the end when it's time to document what's already been built. The earlier I understand the "why" behind a feature or function, the better the content I can create for users.
+I like structure, but not the kind that gets in the way. I want teams to know what’s happening, what’s expected, and what’s coming next. I’m direct, I follow through, and I try to make decisions that make life easier for the people doing the work.
 
-In addition to my focus on collaboration, I have a superpower that helps me produce my best work: I can translate "engineer speak" into something the average, perhaps less technical, person can understand. It's a challenge I've faced and enjoyed for years.
-
-Finally, although collaboration is central to my work, I’m also highly independent: comfortable sorting out what’s needed and moving the work forward without a lot of direction. I'm a workhorse who just likes to get things done right, keep things moving, and meet deadlines.
-
-
-## How I See Documentation
-I view documentation as a bridge that connects and supports the way a system is built and the way it’s used. One of the advantages I bring to every project is approaching a product as a blank slate, much like a first time user would. That perspective helps me focus on explaining the context behind a task, because when users understand the “why” of a task or feature, the workflow feels clearer and the functionality makes more sense.
-
-At the end of the day, my work always comes back to the user. By putting myself in their place and seeing things from their perspective, I want to make sure the content I create is accurate, appropriate, and genuinely helpful. When documentation truly works for the user, it doesn't just explain the product; it shapes how they feel about using it and the value it brings to their work.
-
-## Where AI Fits In
-My interactions with AI are generally limited to using it as a brainstorming partner and research assistant; exploring different approaches before deciding how I want to communicate an idea; and sometimes as a second set of eyes for proofreading or clarity checks.
-
-The writing itself, including the voice, structure, decisions, and final content, is entirely my own. I continue to explore where AI can be helpful, but its role in my writing process remains deliberately limited.
-
-
-<img src="/cminkema-portfolio/images/landingpage imageOvalVing3a.png"
-     alt="doc types"
-      style="float:right; width:275px; border-radius:6px; margin-top:2rem;" />
-## What I Deliver
-Over the course of my career, I’ve designed, built, and rebuilt documentation ecosystems from the ground up: online help systems, knowledge bases, and content libraries that teams and users actually rely on. I’ve also created supporting content, including workflow documentation, product requirements, and technical content for engineers, developers, and anyone else involved in building the product.
-
-No matter the project or audience, what I deliver stays consistent: content that keeps working as the product evolves. 
-
-> **NOTE:** <span style="font-size: 0.9rem; font-style: italic;">For a closer look at the types of content I've produced, visit the [Writing Samples](/cminkema-portfolio/writing-samples/) section of this portfolio.
+I believe good documentation comes from good habits, not heroics. I build those habits and help teams stick to them.
