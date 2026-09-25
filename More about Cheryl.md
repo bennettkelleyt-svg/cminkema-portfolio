@@ -1,5 +1,5 @@
 ---
-title: "More about Cheryl"
+title: "About Me"
 nav_order: 3
 ---
 
@@ -10,7 +10,7 @@ nav_order: 3
 <h1 style="color:#0070C0; font-weight: 700; font-size: 2rem !important;">About Me</h1>
 I’ve spent most of my career working in technical writing and documentation leadership. I like complicated systems, clear information, and teams that communicate well. I’ve worked in robotics, autonomous vehicles, enterprise software, and cloud platforms, and I’ve learned that good documentation makes everything else easier.
 
-<br>I’m originally from the Pacific Northwest and now live in North Carolina. I like quiet routines, long drives, and any excuse to be near the water. I enjoy solving practical problems, organizing messy content, and helping writers grow in their careers. I’m happiest when I’m learning how something works and figuring out the simplest way to explain it.
+<br>I enjoy solving practical problems, organizing messy content, and helping writers grow in their careers. I’m happiest when I’m learning how something works and figuring out the simplest way to explain it.
 
 I’m not flashy. I like steady progress, honest conversations, and work that actually helps people. If something can be made clearer, I’ll probably try to do it.
 
